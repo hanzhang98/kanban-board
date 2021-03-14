@@ -1,0 +1,95 @@
+{
+    "boardName": "Han's Trello",
+    "editingBoardName": false,
+    "lists": [
+    {
+        "name": "Academics",
+        "color": "orange",
+        "editingListName": false,
+        "tasks": [
+            {
+                "name": "CS 250",
+                "editingTaskName": false,
+                "details": "Complete HW 3",
+                "editingTaskDetails": false,
+                "color": "light",
+                "deadline": "2021-03-04",
+                "editingDeadline": false,
+                "filter": true,
+                "comments": [
+                ],
+                "tags": [
+                    {
+                        "name": "info"
+                    }
+                ]
+            }
+        ]
+    },
+            
+    {
+        "name": "Extracurriculars",
+        "color": "cyan",
+        "editingListName": false,
+        "tasks": [
+            {
+                "name": "DIIG",
+                "editingTaskName": false,
+                "details": "Sample description",
+                "editingTaskDetails": false,
+                "color": "light",
+                "deadline": "",
+                "editingDeadline": false,
+                "filter": true,
+                "comments": [
+                    {
+                        "text":"comment 1",
+                        "editingComment": true
+                    },
+                    {
+                        "text":"comment 2",
+                        "editingComment": true
+                    }  
+                ],
+                "tags": [
+                    {
+                        "name": "urgent"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Personal",
+        "color": "green",
+        "editingListName": false,
+        "tasks": [
+            {
+                "name": "Basketball",
+                "editingTaskName": false,
+                "details": "Ball is life",
+                "editingTaskDetails": false,
+                "color": "light",
+                "deadline": "2021-03-04",
+                "editingDeadline": false,
+                "filter": true,
+                "comments": [
+                    {
+                        "text":"comment 1",
+                        "editingComment": true
+                    },
+                    {
+                        "text":"comment 2",
+                        "editingComment": true
+                    }
+                ],
+                "tags": [
+                    {
+                        "name": "completed"
+                    }
+                ]
+            }
+            ]
+        }
+    ]
+}
